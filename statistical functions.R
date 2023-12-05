@@ -1,0 +1,13 @@
+#statistics
+mean(cars$speed)
+mean(cars$dist)
+median(cars$speed)
+median(cars$dist)
+min(cars$speed)
+min(cars$dist)
+max(cars$speed)
+max(cars$dist)
+var(cars$speed)
+var(cars$dist)
+sd(cars$speed)
+sd(cars$dist)
